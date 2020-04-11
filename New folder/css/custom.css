@@ -1,0 +1,57 @@
+.container{
+    width: 1000px;
+	height: 1000px;
+    background: yellow;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    width: 100%;
+    background: bisque;
+    height: 100px;
+}
+.logo{
+    height: 100%;
+    width: 30%;
+    background: red;
+    float: left;
+}
+.menu{
+    height: 100%;
+    width: 70%;
+    background: green;
+    float: left;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+    background: rebeccapurple;
+}
+.content{
+    height: 500px;
+    width: 100%;
+    background: #726969;
+}
+.content-one{
+    height: 100%;
+    width: 33.33%;
+    background: blue;
+    float: left;
+}
+.content-two{
+    height: 100%;
+    width: 33.33%;
+    background: blueviolet;
+    float: left;
+}
+.content-three{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    background: brown;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background: black;
+}
